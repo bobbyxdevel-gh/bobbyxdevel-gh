@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @bobbyxdevel-gh (or bobbyxdevel, or simply just bobby)
+- 👀 I’m interested in: Everything Linux related
+- 🌱 I’m currently learning: C, Python (and everything else Linux related 
+- 📫 How to reach me: via [GitHub](https://github.com/bobbyxdevel-gl/)
+- 😄 Pronouns: be/gone kernel/panic
+- ⚡ Fun fact: There's no better place then 127.0.0.1
